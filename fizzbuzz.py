@@ -8,7 +8,7 @@ for i in range(1, 101):
     elif i % 3 == 0:
         print("Fizz")
 #if dividable by 3 print Buzz
-    elif i % 3 == 0:
+    elif i % 5 == 0:
         print("Buzz")
 #if not dividable by 3 5 or 3 & 5 print number
     else:
